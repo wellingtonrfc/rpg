@@ -1,2 +1,2 @@
 # Meus jogos RPG
-## [Wrath & Glory](./fafnir_nocturnes.md "Ficha do personagem Fafnir Nocturnus")
+## [Ficha do personagem Fafnir Nocturnus em Wrath & Glory](./fafnir_nocturnus.md "Ficha do personagem Fafnir Nocturnus")
