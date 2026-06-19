@@ -1,6 +1,6 @@
 # Fafnir Nocturnus
 
-![Imagem de Fafnir Nocturnus](./personagem_retrato.png "Fafnir Nocturnus")
+![Imagem de Fafnir Nocturnus](./imagens/personagem_retrato.png "Fafnir Nocturnus")
 
 ## História
 
@@ -103,20 +103,27 @@ Hoje, com 54 anos, Fafnir Nocturnus serve na Vanguarda de Varonius, um "mago" fo
 ||Molten Beam|20XP DN:defesa do alvo,dano:10+1ED,causa em chamas|
 ||Wall of Flame|15XP DN:7,dano:12+1ED alvos dentro da parede e 10+1ED alvos até 2 metros,causa em chamas|
 
+![Cicatrizes de Fafnir Nocturnus](./imagens/personagem_mandibula_retrato.png "Fafnir Nocturnus com ferida memorável na mandíbula")
+
 ## Ascensão
 
 |Categoria|Dado/Atributo|Experiência necessária|Valor/Rating|Descrição|Observação|
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |Pacote de Ascensão|Stay the Course|30|Tier 3, necessário ferida memorável (já obtida)|+1 de influência e 2 itens raros de até 6 de custo ou 1 item muito raro de mesmo valor|melhora a mecânica e narrativa do personagem, visto que o mesmo já apresenta um ferimento memorável como requisito da ascenção|
-|Atributos|Resistência (T)|10|+1 (total 4)|+defesa|mínimo 4 para Talento Feel no pain|
+|Atributos|Resistência (T)|25|+2 (total 5)|+defesa|mínimo 4 para Talento Feel no pain|
 |Talentos|Feel no pain|40|mínimo 4 de Resistência (T)|Sem penalidade de ferimentos e +Rank no limite de ferimentos (wounds)|Importante para sobrevivência|
-||Promethium Proficiency|20||+Rank dados de dano e +1 wrath por rodada caso mate um inimigo do IMPERIUM com fogo|maior poder destrutivo e chances de rerolar dados|
-||Favoured by the Warp|40||permite rolar os dados de complicação até resultado favorável|reduz efeitos colaterais das complicações da warp|
 ||Discipline Savant|30|mínimo 4 de Poder psíquico|-1 de dificuldade na conjuração das habilidades de fogo|aumenta chance de execução das habilidades de fogo|
 |Itens|Foco psíquico|-|3 raro|+1 dado em testes de poder psíquico|maior poder destrutivo|
 ||Campo de força|-|5 raro|3AR invulnerabilidade (ignora AP)|maior resistência|
 ||Respirador aumentado|-|5 raro|+1 dado de teste de resistência (T) para gases tóxicos, doenças ou venenos no ar|maior resistência e complementa a narrativa de concentração do personagem atrelado ao foco psíquico|
-||Autodogmatic Cortex|-|6 muito raro|+1 wilpower (Wil)|maior poder destrutivo|
-||Detecção por calor|-|6 raro|detecção de inimigos por calor|detecção do inimigo|
 
-![Cicatrizes de Fafnir Nocturnus](./personagem_mandibula_retrato.png "Fafnir Nocturnus com ferida memorável na mandíbula")
+![Cicatrizes de Fafnir Nocturnus](./imagens/personagem_respirador_retrato.png "Fafnir Nocturnus com ferida memorável na mandíbula")
+
+### Próxima melhoria
+
+|Categoria|Dado/Atributo|Experiência necessária|Valor/Rating|Descrição|Observação|
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|Atributos|Vontade (Wil)|55|+2 (total 8)|+poder de ataque|maoir poder destrutivo|
+|Talentos|Favoured by the Warp|40||permite rolar os dados de complicação uma vez|reduz efeitos colaterais das complicações da warp|
+|Itens|Autodogmatic Cortex|-|6 muito raro|+1 Vontade (Wil)|maior poder destrutivo|
+||Detecção por calor|-|6 raro|detecção de inimigos por calor|detecção do inimigo|
