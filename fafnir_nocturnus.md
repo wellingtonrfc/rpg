@@ -87,7 +87,7 @@ Hoje, com 54 anos, Fafnir Nocturnus serve na Vanguarda de Varonius, um Psyker fo
 ||Medicina|3|
 ||Persuasão|2|
 ||Pilotagem|2|
-||Mestria Psíquica|11|
+||Mestria psíquica|11|
 ||Erudição|4|
 ||Furtividade|2|
 ||Sobrevivência|6|
@@ -96,7 +96,7 @@ Hoje, com 54 anos, Fafnir Nocturnus serve na Vanguarda de Varonius, um Psyker fo
 |Combate|Defesa|2|
 ||Resiliência|4|
 ||Choque|8|
-||Consciência Passiva|2|
+||Consciência passiva|2|
 ||Furtividade|0|
 ||Velocidade|6|
 ||Flutuar|0|
@@ -106,12 +106,12 @@ Hoje, com 54 anos, Fafnir Nocturnus serve na Vanguarda de Varonius, um Psyker fo
 ||Resolução|6|
 ||Corrupção|0|
 |Habilidades|Psyniscience|0XP DN:3|
-||Deny The Witch|0XP DN:2+defesa psíquica do alvo|
+||Deny the witch|0XP DN:2+defesa psíquica do alvo|
 ||Smite|0XP DN:defesa do alvo, dano:1d3|
-||Comjure Flame|10XP DN:4, dano:8+1ED, causa em chamas|
-||Fiery Form|15XP DN:7,+1 defesa,imunidade a fogo e MELTA, dano:10+1ED|
-||Molten Beam|20XP DN:defesa do alvo,dano:10+1ED,causa em chamas|
-||Wall of Flame|15XP DN:7,dano:12+1ED alvos dentro da parede e 10+1ED alvos até 2 metros,causa em chamas|
+||Comjure flame|10XP DN:4, dano:8+1ED, causa em chamas|
+||Fiery form|15XP DN:7,+1 defesa,imunidade a fogo e MELTA, dano:10+1ED|
+||Molten beam|20XP DN:defesa do alvo,dano:10+1ED,causa em chamas|
+||Wall of flame|15XP DN:7,dano:12+1ED alvos dentro da parede e 10+1ED alvos até 2 metros,causa em chamas|
 
 ## Primeira Ascensão
 
@@ -136,11 +136,11 @@ Hoje, o som rítmico do seu respirador é a sua âncora trazendo a mesma paz de 
 
 |Categoria|Dado/Atributo|Experiência necessária|Valor/Rating|Descrição|Observação|
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|Saúde|Ferida Memorável|||Mandíbula|adquirida durante a batalha e essencial para ascensão|
-|Pacote de Ascensão|Stay the Course|30|Tier 3, necessário ferida memorável|+1 de influência e 2 itens raros de até 6 de custo ou 1 item muito raro de mesmo valor|melhora a mecânica e narrativa do personagem|
+|Saúde|Ferida memorável|||Mandíbula|adquirida durante a batalha e essencial para ascensão|
+|Pacote de Ascensão|Stay the course|30|Tier 3, necessário ferida memorável|+1 de influência e 2 itens raros de até 6 de custo ou 1 item muito raro de mesmo valor|melhora a mecânica e narrativa do personagem|
 |Atributos|Resistência (T)|25|+2 (total 5)|+defesa|mínimo 4 para Talento Feel no pain|
 |Talentos|Feel no pain|40|mínimo 4 de Resistência (T)|Sem penalidade de ferimentos e +Rank no limite de ferimentos (wounds)|Importante para sobrevivência|
-||Discipline Savant|30|mínimo 4 de Poder psíquico|-1 de dificuldade na conjuração das habilidades de fogo|aumenta chance de execução das habilidades de fogo|
+||Discipline savant|30|mínimo 4 de Poder psíquico|-1 de dificuldade na conjuração das habilidades de fogo|aumenta chance de execução das habilidades de fogo|
 |Itens|Foco psíquico|-|3 raro|+1 dado em testes de poder psíquico|maior poder destrutivo|
 ||Campo de força|-|5 raro|3AR invulnerabilidade (ignora AP)|maior resistência|
 ||Respirador augmético|-|5 raro|+1 dado de teste de resistência (T) para gases tóxicos, doenças ou venenos no ar|maior resistência e complementa a narrativa de concentração do personagem atrelado ao foco psíquico|
@@ -174,7 +174,7 @@ Hoje, o som rítmico do seu respirador é a sua âncora trazendo a mesma paz de 
 ||Medicina|3|
 ||Persuasão|2|
 ||Pilotagem|2|
-||Mestria Psíquica|11|
+||Mestria psíquica|11|
 ||Erudição|4|
 ||Furtividade|2|
 ||Sobrevivência|6|
@@ -183,7 +183,7 @@ Hoje, o som rítmico do seu respirador é a sua âncora trazendo a mesma paz de 
 |Combate|Defesa|2|
 ||Resiliência|9|
 ||Choque|9|
-||Consciência Passiva|2|
+||Consciência passiva|2|
 ||Furtividade|0|
 ||Velocidade|6|
 ||Flutuar|0|
@@ -193,17 +193,37 @@ Hoje, o som rítmico do seu respirador é a sua âncora trazendo a mesma paz de 
 ||Resolução|6|
 ||Corrupção|0|
 |Habilidades|Psyniscience|0XP DN:3|
-||Deny The Witch|0XP DN:2+defesa psíquica do alvo|
+||Deny the witch|0XP DN:2+defesa psíquica do alvo|
 ||Smite|0XP DN:defesa do alvo, dano:1d3|
-||Comjure Flame|10XP DN:4-1, dano:8+1ED, causa em chamas|
-||Fiery Form|15XP DN:7-1,+1 defesa,imunidade a fogo e MELTA, dano:10+1ED|
-||Molten Beam|20XP DN:defesa do alvo-1,dano:10+1ED,causa em chamas|
-||Wall of Flame|15XP DN:7-1,dano:12+1ED alvos dentro da parede e 10+1ED alvos até 2 metros,causa em chamas|
+||Comjure flame|10XP DN:4-1, dano:8+1ED, causa em chamas|
+||Fiery form|15XP DN:7-1,+1 defesa,imunidade a fogo e MELTA, dano:10+1ED|
+||Molten beam|20XP DN:defesa do alvo-1,dano:10+1ED,causa em chamas|
+||Wall of flame|15XP DN:7-1,dano:12+1ED alvos dentro da parede e 10+1ED alvos até 2 metros,causa em chamas|
 |Talentos|Feel no pain|40XP mínimo 4 de Resistência (T), Sem penalidade de ferimentos e +Rank no limite de ferimentos (wounds)|
-||Discipline Savant|30XP mínimo 4 de Poder psíquico, -1 de dificuldade na conjuração das habilidades de fogo|
+||Discipline savant|30XP mínimo 4 de Poder psíquico, -1 de dificuldade na conjuração das habilidades de fogo|
 |Itens|Foco psíquico|+1 dado em testes de poder psíquico|
 ||Campo de força|3AR invulnerabilidade (ignora AP)|
 ||Respirador augmético|+1 dado de teste de resistência (T) para gases tóxicos, doenças ou venenos no ar|
+
+### O Sacramento do Aço e da Mente
+
+Para Fafnir Nocturnus, a carne sempre foi um fardo frágil, uma lição aprendida da forma mais brutal quando as garras de um mutante estilhaçaram sua mandíbula. A carne sangra, sente dor e, acima de tudo, cede. A Disformidade (Warp) é igualmente caótica, um oceano de loucura volátil e entidades malignas que anseiam por consumir almas desprotegidas. Entre a fraqueza do corpo e o caos do Warp, Fafnir encontrou a sua verdadeira salvação no aço frio e na ordem absoluta da máquina.
+
+No silêncio que se segue às batalhas, longe do calor escaldante de seus dragões de fogo psíquico, Fafnir realiza seu rito mais íntimo. Em suas mãos, que ostentam bionias industriais massivas com bobinas eletromagnéticas brilhando em um azul gélido, repousa um pequeno e ornamentado frasco contendo o Óleo de Máquina Sagrado (Sacred Machine Oil).
+
+A fascinação de Fafnir por esta substância purificada pelo Adeptus Mechanicus transcende a simples manutenção tática. Para ele, o óleo é a essência líquida da estabilidade. Quando ele destampa o frasco, o aroma de unguentos santificados e incenso metálico purifica o ar ao seu redor, mascarando o cheiro de ozônio e cinzas que sempre acompanha sua piromancia.
+
+Com movimentos metódicos e lentos, ele espalha as gotas viscosas sobre as engrenagens de seus braços biônicos e, com reverência ainda maior, sobre as válvulas e os grossos tubos de seu Respirador Augmético. Enquanto o óleo desliza pelo metal escurecido, Fafnir entoa cânticos de manutenção em um sussurro gutural. Ele sente o exato momento em que o "Espírito da Máquina" (Machine Spirit) é apaziguado. O atrito imperceptível das válvulas desaparece. O metal esfria.
+
+O som rítmico de sua respiração mecânica — hsssh-clack, hsssh-clack — torna-se ainda mais suave, mais puro. É esse som que o transporta de volta à paz de sua incubadora nas entranhas das fundições do Mundo Forja Avachrus.
+
+A fascinação de Fafnir nasce dessa perfeição rítmica. Cada gota do Óleo de Máquina Sagrado garante que seu respirador nunca falhe, nunca engasgue e nunca o deixe em silêncio. Se a máquina falhasse, o som que ancora sua mente pararia. Se sua concentração vacilasse, a dor fantasma de seu rosto mutilado retornaria e as vozes dos demônios da Disformidade invadiriam sua mente.
+
+Assim, o ritual de unção com o Óleo de Máquina Sagrado não é apenas a manutenção de seu equipamento, mas a verdadeira fundação de sua sanidade. Além de garantir que as engrenagens e válvulas de seu respirador augmético operem em perfeitas condições, a substância abençoada oferece uma blindagem sensorial contínua.
+
+Devido à espessa proteção dos filtros moleculares de sua máscara, desenvolvidos para bloquear a podridão e os gases tóxicos dos campos de batalha, o aroma incensado e purificado do óleo sagrado é o único cheiro de todo o mundo exterior que consegue atravessar as máquinas do respirador e chegar aos seus sentidos.
+
+E isso é absolutamente perfeito para Fafnir. A cada lufada de ar, esse cheiro metálico e familiar atua como um foco meditativo perpétuo. Inundando seus pulmões e isolando-o do fedor de sangue e cinzas, o aroma contínuo do óleo funde-se ao som rítmico das válvulas para mantê-lo em um estado de concentração inabalável o tempo todo. É o cheiro da ordem mecânica sobrepujando o caos da carne e da Disformidade, ancorando sua mente de forma permanente para que sua chama possa iluminar a escuridão do 41º Milênio.
 
 ## Próxima Ascensão
 
@@ -211,6 +231,5 @@ Hoje, o som rítmico do seu respirador é a sua âncora trazendo a mesma paz de 
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |Atributos|Vontade (Wil)|55|+2 (total 8)|+poder de ataque|maoir poder destrutivo|
 ||Resistência (T)|75|+3 (total 8)|+defesa|maior resistência|
-|Itens|Autodogmatic Cortex|-|6 muito raro|+1 Vontade (Wil)|maior poder destrutivo|
-||Augmetic Viscera|-|5 muito raro|+1 Resistência (T)|maior resistência|
-||Detecção por calor|-|6 raro|detecção de inimigos por calor|detecção do inimigo|
+|Itens|Cortex augmético|-|6 muito raro|+1 Vontade (Wil)|maior poder destrutivo|
+||Visceras augméticas|-|5 muito raro|+1 Resistência (T)|maior resistência|
