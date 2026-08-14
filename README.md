@@ -15,3 +15,7 @@ O cenário do jogo é marcado por uma era sombria, terrível e de guerra constan
 Neste universo implacável, os jogadores podem encarnar uma imensa variedade de arquétipos, desde os formidáveis guerreiros geneticamente modificados conhecidos como Space Marines, agentes da Inquisição e clérigos fervorosos, até sobreviventes do submundo ou raças alienígenas como os orgulhosos Aeldari e os brutais Orks. As histórias variam desde a investigação de ruínas antigas e esquemas sombrios até o combate visceral, que é retratado como uma exibição selvagem e ultraviolenta de carnificina. Utilizando os recursos de "Ira" e "Glória" (Wrath & Glory), os personagens podem superar as probabilidades, alterar o destino de seus testes e protagonizar épicos contos de heroísmo e sacrifício contra a escuridão do universo.
 
 - Personagem de Julho/2026: [Fafnir Nocturnus](./fafnir_nocturnus.md "Fafnir Nocturnus")
+
+### Alien
+
+- Personagem de Agosto/2026: [Kayla Rey](./kayla_rye_roughneck.md "Kayla Rey")
