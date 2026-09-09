@@ -26,7 +26,7 @@ O grande diferencial da experiência é o seu aclamado sistema de Estresse e Pâ
 
 - Personagem de Agosto/2026: [Kayla Rey](./kayla_rye_roughneck.md "Kayla Rey")
 
-### Dageger Heart
+### Dagger Heart
 
 **Daggerheart** é um RPG de mesa colaborativo de fantasia heróica que prioriza a construção narrativa compartilhada e batalhas dinâmicas. Enquanto os jogadores interpretam personagens definidos por suas classes, ancestralidades e comunidades, o Mestre conduz o mundo e os adversários, criando uma experiência flexível focada no desenvolvimento emocional e nas escolhas do grupo.
 
